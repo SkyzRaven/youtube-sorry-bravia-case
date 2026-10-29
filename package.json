@@ -1,0 +1,20 @@
+{
+  "name": "claim-ready",
+  "version": "1.0.0",
+  "description": "Claim Ready — A free checklist for anyone about to file a warranty claim. Decided on facts, in writing.",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js",
+    "serve": "node serve.js"
+  },
+  "keywords": [
+    "warranty",
+    "consumer-rights",
+    "checklist",
+    "claim-ready",
+    "editorial-design"
+  ],
+  "author": "Claim Ready Contributors",
+  "license": "MIT"
+}
